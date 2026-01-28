@@ -1,2 +1,3 @@
 # webdev_lab2
-second lab for the class ITMD361 - Fundementals of Web Design
+Zainab Azeem's second project of ITMD361 during the spring semester of 2026.
+
